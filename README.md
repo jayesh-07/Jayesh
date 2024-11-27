@@ -6,3 +6,7 @@ I'm Skilled in SQL and Data Analysis and improving my Machine Learning Knowledge
 
 I am keen to combine sports and data, I love playing Basketball.
 
+# Technologies Learned.
+1)SQL
+2)Python
+3)R
