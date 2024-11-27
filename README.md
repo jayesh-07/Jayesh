@@ -8,5 +8,7 @@ I am keen to combine sports and data, I love playing Basketball.
 
 # Technologies Learned.
 1)SQL
+
 2)Python
+
 3)R
